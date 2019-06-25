@@ -1,2 +1,4 @@
 # GoLangNotes
-Notes for learning GoLang
+Base of GoLang.
+
+Notes for learning GoLang.
